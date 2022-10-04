@@ -1,3 +1,6 @@
 go.mod
 go.sum
 myfiberapp1
+myfiberapp1-amd64.exe
+myfiberapp1-i386.exe
+myfiberapp1-linux-i386
